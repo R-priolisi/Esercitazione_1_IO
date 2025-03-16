@@ -1,1 +1,1 @@
-# sercitazione_1_IO
+# Esercitazione_1_IO
